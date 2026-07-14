@@ -1,0 +1,5 @@
+This is synthetic demonstration content created for an AI engineering assignment. It does not contain real patient data or PHI.
+
+MEDICATION REFILL POLICY
+Refill requests for previously prescribed maintenance medicines may be submitted through the patient portal or the prescribing office. Patients should allow 48–72 business hours for routine processing and should not wait until medicine has run out.
+A clinician reviews every request. Approval depends on the medicine, prescription status, required monitoring, recent clinical review, applicable policy, and regulations. A consultation or in-person assessment may be required. New medicines and dose changes require clinical evaluation. Controlled medicines may have additional restrictions and may require an in-person visit. Submission of a request does not guarantee approval.

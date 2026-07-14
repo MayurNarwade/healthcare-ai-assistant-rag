@@ -1,0 +1,5 @@
+This is synthetic demonstration content created for an AI engineering assignment. It does not contain real patient data or PHI.
+
+INSURANCE ELIGIBILITY FAQ
+Eligibility verification requires the member name, date of birth, insurer name, member or policy identifier, and, when applicable, group number. A referral may be required for specialist care depending on the member's plan. Some services or medicines may require prior authorization.
+Verification is not a guarantee of payment or coverage. Benefits, network status, deductibles, copayments, and authorization requirements should be confirmed with the insurer. Self-pay estimates may be requested for planned non-emergency services.

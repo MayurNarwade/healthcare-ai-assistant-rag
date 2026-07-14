@@ -1,0 +1,50 @@
+services:
+
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+
+    environment:
+      OLLAMA_BASE_URL: http://ollama:11434
+      HOME: /tmp
+      HF_HOME: /tmp/huggingface
+      HF_HUB_CACHE: /tmp/huggingface/hub
+      TRANSFORMERS_CACHE: /tmp/huggingface/transformers
+      SENTENCE_TRANSFORMERS_HOME: /tmp/huggingface/sentence-transformers
+
+    volumes:
+      - ./data:/app/data:ro
+      - ./vector_store:/app/vector_store
+      - ./logs:/app/logs
+
+    depends_on:
+      - ollama
+
+  streamlit:
+    build: .
+    command:
+      - streamlit
+      - run
+      - frontend/streamlit_app.py
+      - --server.address=0.0.0.0
+      - --server.port=8501
+
+    ports:
+      - "8501:8501"
+
+    environment:
+      API_BASE_URL: http://api:8000
+
+    depends_on:
+      - api
+
+volumes:
+  ollama_data:

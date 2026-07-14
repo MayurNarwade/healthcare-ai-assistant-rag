@@ -1,0 +1,17 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.git/
+.github/
+.vscode/
+.idea/
+logs/
+vector_store/
+*.log
+*.zip
+*.tar
+*.mp4
+.DS_Store

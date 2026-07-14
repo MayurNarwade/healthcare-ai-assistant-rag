@@ -1,0 +1,5 @@
+This is synthetic demonstration content created for an AI engineering assignment. It does not contain real patient data or PHI.
+
+PATIENT DISCHARGE INSTRUCTIONS
+Follow the personalized discharge plan provided by the care team. Take prescribed medicines exactly as directed and do not start, stop, or change a medicine without clinician guidance. Keep follow-up appointments within the timeframe stated in the discharge summary. Follow activity, diet, wound-care, and monitoring instructions specific to the procedure.
+Contact the care team for worsening pain, fever, redness, swelling, drainage, medication concerns, or questions about recovery. Seek urgent local medical help for severe breathing difficulty, chest pain, uncontrolled bleeding, loss of consciousness, or other potentially life-threatening symptoms. The patient portal may be used for non-urgent follow-up questions.

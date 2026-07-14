@@ -1,0 +1,162 @@
+[
+  {
+    "id": "qa_001",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 4191.26,
+    "error": false
+  },
+  {
+    "id": "qa_002",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 4470.56,
+    "error": false
+  },
+  {
+    "id": "qa_003",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 5464.49,
+    "error": false
+  },
+  {
+    "id": "qa_004",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2048.4,
+    "error": false
+  },
+  {
+    "id": "qa_005",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2041.54,
+    "error": false
+  },
+  {
+    "id": "qa_006",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2056.68,
+    "error": false
+  },
+  {
+    "id": "qa_007",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2063.98,
+    "error": false
+  },
+  {
+    "id": "qa_008",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2051.85,
+    "error": false
+  },
+  {
+    "id": "qa_009",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2051.38,
+    "error": false
+  },
+  {
+    "id": "qa_010",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2056.1,
+    "error": false
+  },
+  {
+    "id": "qa_011",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2055.4,
+    "error": false
+  },
+  {
+    "id": "qa_012",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2074.38,
+    "error": false
+  },
+  {
+    "id": "qa_013",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2073.37,
+    "error": false
+  },
+  {
+    "id": "qa_014",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2072.61,
+    "error": false
+  },
+  {
+    "id": "qa_015",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2066.61,
+    "error": false
+  },
+  {
+    "id": "qa_016",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2081.91,
+    "error": false
+  },
+  {
+    "id": "qa_017",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2061.22,
+    "error": false
+  },
+  {
+    "id": "qa_018",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2085.74,
+    "error": false
+  },
+  {
+    "id": "qa_019",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2055.86,
+    "error": false
+  },
+  {
+    "id": "qa_020",
+    "route_ok": true,
+    "citation_ok": true,
+    "unknown_ok": true,
+    "latency_ms": 2073.19,
+    "error": false
+  }
+]

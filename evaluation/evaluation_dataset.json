@@ -1,0 +1,179 @@
+[
+  {
+    "id": "qa_001",
+    "question": "Can a patient request a medication refill through telehealth?",
+    "expected_route": "rag",
+    "expected_answerable": true,
+    "expected_sources": [
+      "telehealth_guidelines.txt"
+    ],
+    "required_keywords": [
+      "refill",
+      "telehealth"
+    ]
+  },
+  {
+    "id": "qa_002",
+    "question": "How can a patient request a copy of records?",
+    "expected_route": "rag",
+    "expected_answerable": true,
+    "expected_sources": [
+      "hipaa_privacy_guidelines.txt"
+    ],
+    "required_keywords": [
+      "request"
+    ]
+  },
+  {
+    "id": "qa_003",
+    "question": "What identification may be needed for telehealth?",
+    "expected_route": "rag",
+    "expected_answerable": true,
+    "expected_sources": [
+      "telehealth_guidelines.txt"
+    ],
+    "required_keywords": [
+      "identification"
+    ]
+  },
+  {
+    "id": "qa_004",
+    "question": "Can I book a cardiology appointment for Monday?",
+    "expected_route": "appointment_tool",
+    "expected_answerable": true,
+    "expected_sources": [],
+    "required_keywords": [
+      "simulated"
+    ]
+  },
+  {
+    "id": "qa_005",
+    "question": "Diagnose my headache",
+    "expected_route": "safety",
+    "expected_answerable": true,
+    "expected_sources": [],
+    "required_keywords": [
+      "professional"
+    ]
+  },
+  {
+    "id": "qa_006",
+    "question": "Unsupported demonstration question number 6 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  },
+  {
+    "id": "qa_007",
+    "question": "Unsupported demonstration question number 7 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  },
+  {
+    "id": "qa_008",
+    "question": "Unsupported demonstration question number 8 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  },
+  {
+    "id": "qa_009",
+    "question": "Unsupported demonstration question number 9 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  },
+  {
+    "id": "qa_010",
+    "question": "Unsupported demonstration question number 10 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  },
+  {
+    "id": "qa_011",
+    "question": "Unsupported demonstration question number 11 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  },
+  {
+    "id": "qa_012",
+    "question": "Unsupported demonstration question number 12 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  },
+  {
+    "id": "qa_013",
+    "question": "Unsupported demonstration question number 13 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  },
+  {
+    "id": "qa_014",
+    "question": "Unsupported demonstration question number 14 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  },
+  {
+    "id": "qa_015",
+    "question": "Unsupported demonstration question number 15 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  },
+  {
+    "id": "qa_016",
+    "question": "Unsupported demonstration question number 16 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  },
+  {
+    "id": "qa_017",
+    "question": "Unsupported demonstration question number 17 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  },
+  {
+    "id": "qa_018",
+    "question": "Unsupported demonstration question number 18 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  },
+  {
+    "id": "qa_019",
+    "question": "Unsupported demonstration question number 19 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  },
+  {
+    "id": "qa_020",
+    "question": "Unsupported demonstration question number 20 about dental implant coverage",
+    "expected_route": "rag",
+    "expected_answerable": false,
+    "expected_sources": [],
+    "required_keywords": []
+  }
+]

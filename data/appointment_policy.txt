@@ -1,0 +1,5 @@
+This is synthetic demonstration content created for an AI engineering assignment. It does not contain real patient data or PHI.
+
+APPOINTMENT SCHEDULING POLICY
+Appointments may be requested through the patient portal, by telephone, or at the reception desk. New-patient visits are generally allocated 30–45 minutes and follow-up visits 15–20 minutes. Requests are not confirmed until the scheduling system issues confirmation.
+Patients should cancel or reschedule at least 24 hours before the visit when possible. Telehealth may be offered for eligible follow-ups, medication reviews, and results discussions. Physical examinations, procedures, vaccinations, or clinician-directed assessments may require an in-person visit.

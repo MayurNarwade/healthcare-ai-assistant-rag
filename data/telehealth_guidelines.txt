@@ -1,0 +1,5 @@
+This is synthetic demonstration content created for an AI engineering assignment. It does not contain real patient data or PHI.
+
+TELEHEALTH CONSULTATION GUIDELINES
+Telehealth visits use an approved secure video platform. Patients need a suitable device, reliable connection, and a private location. Identity and location may be verified at the start of a visit; government-issued identification may be requested when required by policy.
+Eligible uses may include follow-up consultations, results discussions, medication reviews, and selected non-urgent concerns. A medication refill request may be reviewed through telehealth when the medicine was previously prescribed and an in-person evaluation is not required. Approval remains subject to clinician review, medicine type, monitoring needs, policy requirements, and applicable regulations. The clinician may direct the patient to in-person care. Telehealth is not intended for emergencies.
